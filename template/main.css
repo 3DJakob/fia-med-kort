@@ -1,0 +1,72 @@
+<%- phantomBugMagic = 0.82 %>
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(http://fonts.gstatic.com/s/ubuntu/v7/sVvvcJDRTINJla2R4XwPVevvDin1pK8aKteLpeZ5c0A.ttf) format('truetype');
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 10pt;
+}
+
+.card-wrapper {
+	/* Stupid phantomjs bugfix */
+	float: left;
+	border: 1px solid gray;
+	width: <%= (58 * phantomBugMagic) %>mm;
+	height: <%= (79 * phantomBugMagic) %>mm;
+}
+
+.card {
+	width: 58mm;
+	height: 79mm;
+	background-color: white;
+	text-align: center;
+	page-break-inside: avoid;
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+
+	/* Stupid phantomjs bugfix */
+	-webkit-transform: scale(<%= (phantomBugMagic) %>);
+	-webkit-transform-origin: left top;
+}
+
+.card h1,
+.card div {
+	margin: 0;
+	padding: 0;
+}
+
+.card h1 {
+	padding: 16px 0;
+	font-weight: bold;
+	font-size: 22pt;
+	white-space: pre;
+}
+
+.card .img {
+	height: 40mm;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.card .img img {
+	padding: 0;
+	margin: 0;
+}
+
+.card .desc {
+	margin: auto 0;
+	white-space: pre;
+}
+
+.card .when {
+	font-size: 9pt;
+	font-style: italic;
+	text-align: center;
+}
