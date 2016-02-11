@@ -13,13 +13,13 @@
 },{
 	"name": "sign",
 	"title": "He has given us... His shoe!",
-	"desc": "Alla som går på denna ruta hädanefter\nmåste ta av sig ena skon\neller strumpan och pjäsen går\nett setg kortare.",
+	"desc": "Alla som går på denna ruta\nhädanefter går ett steg kortare.",
 	"count": 1,
 	"when": "instantly"
 },{
 	"name": "patsy",
 	"title": "Come. Patsy",
-	"desc": "Du får byta ut din häst mot\ntvå andra pjäser varav\nena följer andra.",
+	"desc": "Du får byta plats på din häst och\ntvå andra pjäser som nu\nbeter sig som en enhet.",
 	"count": 1,
 	"when": "anytime"
 },{
@@ -49,15 +49,15 @@
 },{
 	"name": "argument",
 	"title": "Argument clinic",
-	"desc": "En valfri motståndare\nfastnar i en argumentation\noch missar sin\nnästa tur ",
+	"desc": "En valfri motståndare\nfastnar i en argumentation\noch missar sin nästa tur ",
 	"count": 1,
-	"when": "anytime"
+	"when": "begining-of-turn"
 },{
 	"name": "sillywalks",
 	"title": "Ministry of silly walks",
-	"desc": "Du går hälften så snabbt eftersom\ndet tar lång tid att gå roligt",
+	"desc": "En valfri pjäs går hälften\nså långt eftersom det tar\nlång tid att gå roligt",
 	"count": 1,
-	"when": "instantly"
+	"when": "anytime"
 },{
 	"name": "lumberjack",
 	"title": "I'm a lumberjack",
@@ -73,7 +73,19 @@
 },{
 	"name": "banana",
 	"title": "Pointed stick",
-	"desc": "Du står över nästa runda\nför att lära dig självförsvar\nmot färsk frukt",
+	"desc": "Använd den för\nsjälvförsvar mot färsk frukt",
 	"count": 1,
-	"when": "instsntly"
+	"when": "instantly"
+},{
+	"name": "not-dead",
+	"title": "I'm not dead yet!",
+	"desc": "Din pjäs håller kvar om\nlivet! Använd för att kontra\nutslagning eller dödande.",
+	"count": 1,
+	"when": "anytime"
+},{
+		"name": "favorite-color",
+		"title": "What's your favorite color?",
+		"desc": "Använd kortet för att\nbyta färg med den person som\nhar din favoritfärg.",
+		"count": 1,
+		"when": "begining-of-turn"
 }]
