@@ -1,27 +1,27 @@
 [{
 	"name": "hovercraft",
-	"title": "My hovercraft is full of eels",
+	"title": "My hovercraft",
 	"desc": "Nästa person som säger något\npå kortinnehavarens modersmål\nblir slagen i ansiktet för att\ndet var väldigt förolämpande.",
 	"count": 1,
 	"when": "instantly"
 },{
 	"name": "inquisition",
-	"title": "Spanish inquisition",
-	"desc": "Du får slå någon med kuddar\noch skrika 'CONFESS!!! CONFESS!!!!",
+	"title": "Inquisition",
+	"desc": "Du får slå någon med kuddar\noch skrika CONFESS!!! CONFESS!!!!",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "sign",
-	"title": "He has given us... His shoe!",
-	"desc": "Alla som går på denna ruta\nhädanefter går ett steg kortare.",
+	"title": "He has given...",
+	"desc": "His shoe! Alla som går på\ndenna rutahädanefter går ett\nsteg kortare.",
 	"count": 1,
 	"when": "instantly"
 },{
 	"name": "patsy",
 	"title": "Come. Patsy",
-	"desc": "Du får byta plats på din häst och\ntvå andra pjäser som nu\nbeter sig som en enhet.",
+	"desc": "Du får byta plats på din häst och\ntvå andra pjäser i boet som\nnu beter sig som en enhet.",
 	"count": 1,
-	"when": "anytime"
+	"when": "begining-of-turn"
 },{
 	"name": "spam",
 	"title": "Spam",
@@ -42,13 +42,13 @@
 	"when": "anytime"
 },{
 	"name": "argument",
-	"title": "Argument clinic",
+	"title": "Argument",
 	"desc": "En valfri motståndare\nfastnar i en argumentation\noch missar sin nästa tur ",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
 	"name": "sillywalks",
-	"title": "Ministry of silly walks",
+	"title": "Silly walks",
 	"desc": "En valfri pjäs går hälften\nså långt eftersom det tar\nlång tid att gå roligt",
 	"count": 1,
 	"when": "anytime"
@@ -69,7 +69,7 @@
 	"title": "Pointed stick",
 	"desc": "Använd den för\nsjälvförsvar mot färsk frukt",
 	"count": 1,
-	"when": "instantly"
+	"when": "anytime"
 },{
 	"name": "not-dead",
 	"title": "I'm not dead yet!",
