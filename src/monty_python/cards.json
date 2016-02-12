@@ -29,12 +29,6 @@
 	"count": 1,
 	"when": "anytime"
 },{
-	"name": "norman",
-	"title": "Spiney Norman",
-	"desc": "Den stora igelkotten\nföljer efter din pjäs.\nStå över nästa tur",
-	"count": 1,
-	"when": "instantly"
-},{
 	"name": "nudge",
 	"title": "Nudge nudge",
 	"desc": "Om en pjäs är ett steg\nbakom en av dina kan\ndu gå 3 steg frammåt",
