@@ -83,6 +83,12 @@
 	"count": 1,
 	"when": "anytime"
 },{
+	"name": "holy-grenade",
+	"title": "Holy hand grenade",
+	"desc": "1, 2, 4 no 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area",
+	"count": 1,
+	"when": "begining-of-turn"
+},{
 		"name": "favorite-color",
 		"title": "What's your favorite color?",
 		"desc": "Använd kortet för att\nbyta färg med den person som\nhar din favoritfärg.",
