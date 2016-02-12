@@ -11,12 +11,6 @@
 	"count": 1,
 	"when": "anytime"
 },{
-	"name": "sign",
-	"title": "He has given...",
-	"desc": "His shoe! Alla som går på\ndenna rutahädanefter går ett\nsteg kortare.",
-	"count": 1,
-	"when": "instantly"
-},{
 	"name": "patsy",
 	"title": "Come. Patsy",
 	"desc": "Du får byta plats på din häst och\ntvå andra pjäser i boet som\nnu beter sig som en enhet.",
