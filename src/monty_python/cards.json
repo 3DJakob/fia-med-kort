@@ -54,7 +54,7 @@
 	"when": "anytime"
 },{
 	"name": "joke",
-	"title": "World's funniest joke",
+	"title": "Funniest joke",
 	"desc": "Din spelpjäs dog av\nskämtet och är ute ur spelet",
 	"count": 1,
 	"when": "instantly"
@@ -66,19 +66,19 @@
 	"when": "anytime"
 },{
 	"name": "not-dead",
-	"title": "I'm not dead yet!",
+	"title": "Not dead yet!",
 	"desc": "Din pjäs håller kvar om\nlivet! Använd för att kontra\nutslagning eller dödande.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "holy-grenade",
-	"title": "Holy hand grenade",
+	"title": "Holy grenade",
 	"desc": "1, 2, 4 no 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
 		"name": "favorite-color",
-		"title": "What's your favorite color?",
+		"title": "Favorite color?",
 		"desc": "Använd kortet för att\nbyta färg med den person som\nhar din favoritfärg.",
 		"count": 1,
 		"when": "begining-of-turn"
