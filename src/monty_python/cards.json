@@ -73,7 +73,7 @@
 },{
 	"name": "holy-grenade",
 	"title": "Holy grenade",
-	"desc": "1, 2, 4 no 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area",
+	"desc": "1, 2, 5 no 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
