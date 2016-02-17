@@ -19,13 +19,13 @@
 },{
 	"name": "spam",
 	"title": "Spam",
-	"desc": "Detta kort kan användas\nhur många gånger som helst.\nKan bytas mot ett nytt kort",
+	"desc": "Detta kort kan användas\nhur många gånger som helst.\nKan bytas mot ett nytt kort.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "nudge",
 	"title": "Nudge nudge",
-	"desc": "Om en pjäs är ett steg\nbakom en av dina kan\ndu gå 3 steg frammåt",
+	"desc": "Om en pjäs är ett steg\nbakom en av dina kan\ndu gå 3 steg frammåt för att\nspringa ifrån den.",
 	"count": 1,
 	"when": "anytime"
 },{
@@ -37,31 +37,31 @@
 },{
 	"name": "argument",
 	"title": "Argument",
-	"desc": "En valfri motståndare\nfastnar i en argumentation\noch missar sin nästa tur ",
+	"desc": "Du har bemästrat konsten\natt argumentera och får\nslå en gång till.",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
 	"name": "sillywalks",
 	"title": "Silly walks",
-	"desc": "En valfri pjäs går hälften\nså långt eftersom det tar\nlång tid att gå roligt",
+	"desc": "En valfri pjäs går hälften\nså långt eftersom det tar\nlång tid att gå roligt.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "lumberjack",
 	"title": "I'm a lumberjack",
-	"desc": "I'm a lumberjack and I'm Ok.\nÅterupplivar en spelpjäs",
+	"desc": "I'm a lumberjack and I'm Ok.\nÅterupplivar en spelpjäs.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "joke",
 	"title": "Funniest joke",
-	"desc": "Din spelpjäs dog av\nskämtet och är ute ur spelet",
+	"desc": "Din spelpjäs dog av\nskämtet och är ute ur spelet.",
 	"count": 1,
 	"when": "instantly"
 },{
 	"name": "banana",
 	"title": "Pointed stick",
-	"desc": "Använd den för\nsjälvförsvar mot färsk frukt",
+	"desc": "Använd den för\nsjälvförsvar mot färsk frukt.\nDetta kort motverkar Slice n' Dice\noch skyddar din anfallna pjäs.",
 	"count": 1,
 	"when": "anytime"
 },{
@@ -73,7 +73,7 @@
 },{
 	"name": "holy-grenade",
 	"title": "Holy grenade",
-	"desc": "1, 2, 5 no 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area",
+	"desc": "1, 2, 5! No 3! Kasta\ngranaten för att döda alla\npjäser på en 3 x 3 area.",
 	"count": 1,
 	"when": "begining-of-turn"
 },{

@@ -13,7 +13,7 @@
 },{
 	"name": "golden-hammer",
 	"title": "Golden Hammer",
-	"desc": "Alla pjäser du passerar\ndenna tur åker tillbaka\ntill boet",
+	"desc": "Alla pjäser du passerar\ndenna tur åker tillbaka\ntill boet.",
 	"count": 1,
 	"when": "after-dice"
 },{
@@ -79,7 +79,7 @@
 },{
 	"name": "game-of-thrones",
 	"title": "Nej, min favo",
-	"desc": "Den viktigast pjäsen dör.\n(den som kommit längst)",
+	"desc": "Den viktigast pjäsen dör.\n(den som kommit längst).",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
