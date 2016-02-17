@@ -83,13 +83,13 @@
 	"count": 1,
 	"when": "begining-of-turn"
 },{
-	"name": "",
+	"name": "quest",
 	"title": "Your quest?",
 	"desc": "What is your quest?\nDen som har svaret på detta\nkan förvänta sig stordåd!",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
-	"name": "",
+	"name": "holy-grail",
 	"title": "Holy grail",
 	"desc": "Detta är svaret på\n'What's your quest?'. När dessa två kort\nanvänds tillsammans har du slutfört\nditt uppdrag och vinner spelet!",
 	"count": 1,
