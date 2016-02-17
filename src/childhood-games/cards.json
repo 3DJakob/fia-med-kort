@@ -1,0 +1,85 @@
+[{
+	"name": "",
+	"title": "Ser man på,",
+	"desc": "En grunka. Du har hittat en grunka\noch förbättra din häst.\nDen går nu två steg längre. ",
+	"count": 1,
+	"when": "instantly"
+},{
+	"name": "",
+	"title": "Rackarns hund",
+	"desc": "Tack du Mulle för att du hitta en Salka.\nDu ska få dig en dunk bensin\nför besväret. En pjäs går\ndubbelt så långt en runda",
+	"count": 1,
+	"when": "anytime"
+},{
+	"name": "",
+	"title": "Nya delar",
+	"desc": "Nu kommer visst nya delar till Mulles bilbyggande.\nEn pjäs går dubbelt så långt resten\nav spelet",
+	"count": 1,
+	"when": "anytime"
+},{
+	"name": "",
+	"title": "Soppatorsk",
+	"desc": "Valfri pjäs får soppatorsk och åker tillbaka till boet",
+	"count": 1,
+	"when": "anytime"
+},{
+	"name": "",
+	"title": "Prästens bibel",
+	"desc": "Du har hittat prästens bibel!\nValfri pjäs går 5 steg längre",
+	"count": 1,
+	"when": "anytime"
+},{
+	"name": "",
+	"title": "Jetmotor",
+	"desc": "Du kom till Doris Digital\noch fick en jetmotor!\nDen monteras på en egen pjäs\nsom går 10 steg frammåt",
+	"count": 1,
+	"when": "anytime"
+},{
+	"name": "",
+	"title": "TÄVLING!",
+	"desc": "Du och en motspelare tävlar\nom vem som har snabbast bil.\nDen som slår högst på tärningen går\n8 steg med valfri pjäs",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+	"name": "",
+	"title": "",
+	"desc": "",
+	"count": 1,
+	"when": ""
+},{
+		"name": "",
+		"title": "",
+		"desc": "",
+		"count": 1,
+		"when": ""
+}]
