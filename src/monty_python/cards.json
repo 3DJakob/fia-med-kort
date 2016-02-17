@@ -37,7 +37,7 @@
 },{
 	"name": "argument",
 	"title": "Argument",
-	"desc": "Du har bemästrat konsten\natt argumentera och får\nslå en gång till.",
+	"desc": "Du har bemästrat konsten\natt argumentera och\nargumenterar till dig\nett slag till.",
 	"count": 1,
 	"when": "begining-of-turn"
 },{
@@ -77,9 +77,21 @@
 	"count": 1,
 	"when": "begining-of-turn"
 },{
-		"name": "favorite-color",
-		"title": "Favorite color?",
-		"desc": "Använd kortet för att\nbyta färg med den person som\nhar din favoritfärg.",
-		"count": 1,
-		"when": "begining-of-turn"
+	"name": "favorite-color",
+	"title": "Favorite color?",
+	"desc": "Använd kortet för att\nbyta färg med den person som\nhar din favoritfärg.",
+	"count": 1,
+	"when": "begining-of-turn"
+},{
+	"name": "",
+	"title": "Your quest?",
+	"desc": "What is your quest?\nDen som har svaret på detta\nkan förvänta sig stordåd!",
+	"count": 1,
+	"when": "begining-of-turn"
+},{
+	"name": "",
+	"title": "Holy grail",
+	"desc": "Detta är svaret på\n'What's your quest?'. När dessa två kort\nanvänds tillsammans har du slutfört\nditt uppdrag och vinner spelet!",
+	"count": 1,
+	"when": "begining-of-turn"
 }]
