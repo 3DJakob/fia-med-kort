@@ -6,16 +6,16 @@
 	"when": ""
 },{
 	"name": "highway",
-	"title": "Highway to hell",
-	"desc": "",
+	"title": "Highway To Hell",
+	"desc": "Välj en motspelares pjäs som får gå direkt tillbaka till boet!",
 	"count": 1,
-	"when": ""
+	"when": "beginning-of-turn"
 },{
 	"name": "heaven",
-	"title": "Stairway to heaven",
-	"desc": "",
+	"title": "Stairway To Heaven",
+	"desc": "Vem tycker inte om en genväg? Skippa slutsträckan och gå direkt i mål med en pjäs.",
 	"count": 1,
-	"when": ""
+	"when": "beginning-of-turn"
 },{
 	"name": "let-it-go",
 	"title": "Let It Go",
