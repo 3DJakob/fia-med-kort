@@ -1,7 +1,7 @@
 [{
 	"name": "grunka",
 	"title": "Ser man på,",
-	"desc": "En grunka. Du har hittat en grunka\noch förbättra din häst.\nDen går nu två steg längre.",
+	"desc": "En grunka. Du har hittat en grunka\noch förbättra din häst.\nDen går nu två steg längre för\nresten av spelet.",
 	"count": 1,
 	"when": "instantly"
 },{
@@ -13,21 +13,21 @@
 },{
 	"name": "nya-delar",
 	"title": "Nya delar",
-	"desc": "Nu kommer visst nya delar till Mulles\nbilbyggande. En pjäs går dubbelt\nså långt resten av spelet.",
+	"desc": "Nu kommer visst Figge Ferrum med\nnya delar till Mulles bilbyggande.\nEn pjäs går dubbelt så\nlångt resten av spelet.",
 	"count": 1,
-	"when": "anytime"
+	"when": "beginning-of-turn"
 },{
 	"name": "soppatorsk",
 	"title": "Soppatorsk",
 	"desc": "Valfri pjäs får soppatorsk\noch åker tillbaka till boet.",
 	"count": 1,
-	"when": "anytime"
+	"when": "beginning-of-turn"
 },{
 	"name": "bibel",
 	"title": "Prästens bibel",
 	"desc": "Du har hittat prästens bibel!\nValfri pjäs går 5 steg längre.",
 	"count": 1,
-	"when": "anytime"
+	"when": "beginning-of-turn"
 },{
 	"name": "jetmotor",
 	"title": "Jetmotor",
@@ -39,19 +39,19 @@
 	"title": "TÄVLING!",
 	"desc": "Du och en motspelare tävlar\nom vem som har snabbast bil.\nDen som slår högst på tärningen går\n8 steg med valfri pjäs.",
 	"count": 1,
-	"when": ""
+	"when": "beginning-of-turn"
 },{
-	"name": "",
-	"title": "",
-	"desc": "",
+	"name": "wololo",
+	"title": "WOLOLO!",
+	"desc": "En fiendepräst tar över en av dina\npjäser. Ge bort en pjäs till\nen fiendespelare.",
 	"count": 1,
-	"when": ""
+	"when": "beginning-of-turn"
 },{
-	"name": "",
-	"title": "",
-	"desc": "",
+	"name": "shhh-ho",
+	"title": "SHHH HO",
+	"desc": "Du får ta ut en pjäs ur boet.",
 	"count": 1,
-	"when": ""
+	"when": "anytime"
 },{
 	"name": "",
 	"title": "",
