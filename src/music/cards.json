@@ -7,13 +7,13 @@
 },{
 	"name": "highway",
 	"title": "Highway To Hell",
-	"desc": "Välj en motspelares pjäs som får gå direkt tillbaka till boet!",
+	"desc": "Välj en motspelares pjäs\nsom får gå direkt tillbaka\ntill boet!",
 	"count": 1,
 	"when": "beginning-of-turn"
 },{
 	"name": "heaven",
 	"title": "Stairway To Heaven",
-	"desc": "Vem tycker inte om en genväg? Skippa slutsträckan och gå direkt i mål med en pjäs.",
+	"desc": "Vem tycker inte om en genväg?\nSkippa slutsträckan och\ngå direkt i mål med en pjäs.",
 	"count": 1,
 	"when": "beginning-of-turn"
 },{
@@ -43,7 +43,7 @@
 },{
 	"name": "cant-touch-this",
 	"title": "U Can't Touch This",
-	"desc": "Stop! Hammertime! Kontrar en knuff och slår ut motspelaren istället.",
+	"desc": "Stop! Hammertime! Kontrar en\nknuff och slår ut motspelaren\nistället.",
 	"count": 1,
 	"when": ""
 },{
@@ -73,7 +73,7 @@
 },{
 	"name": "",
 	"title": "Some Die Young",
-	"desc": "Skickar tillbaka en motspelares pjäs in i boet direkt när den har kommit ut.",
+	"desc": "Skickar tillbaka en motspelares\npjäs in i boet direkt när\nden har kommit ut.",
 	"count": 1,
 	"when": ""
 }]
