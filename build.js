@@ -20,4 +20,5 @@ if (process.argv[2]) {
   render('base', done)
   render('games', done)
   render('events', done)
+  render('childhood-games', done)
 }

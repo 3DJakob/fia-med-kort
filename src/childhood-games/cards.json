@@ -1,43 +1,43 @@
 [{
 	"name": "grunka",
 	"title": "Ser man på,",
-	"desc": "En grunka. Du har hittat en grunka\noch förbättra din häst.\nDen går nu två steg längre. ",
+	"desc": "En grunka. Du har hittat en grunka\noch förbättra din häst.\nDen går nu två steg längre.",
 	"count": 1,
 	"when": "instantly"
 },{
 	"name": "salka",
 	"title": "Rackarns hund",
-	"desc": "Tack du Mulle för att du hitta en Salka.\nDu ska få dig en dunk bensin\nför besväret. En pjäs går\ndubbelt så långt en runda",
+	"desc": "Tack du Mulle för att du hitta en\nSalka. Du ska få dig en dunk\nbensin för besväret. En pjäs\ngår dubbelt så långt en runda.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "nya-delar",
 	"title": "Nya delar",
-	"desc": "Nu kommer visst nya delar till Mulles bilbyggande.\nEn pjäs går dubbelt så långt resten\nav spelet",
+	"desc": "Nu kommer visst nya delar till Mulles\nbilbyggande. En pjäs går dubbelt\nså långt resten av spelet.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "soppatorsk",
 	"title": "Soppatorsk",
-	"desc": "Valfri pjäs får soppatorsk och åker tillbaka till boet",
+	"desc": "Valfri pjäs får soppatorsk\noch åker tillbaka till boet.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "bibel",
 	"title": "Prästens bibel",
-	"desc": "Du har hittat prästens bibel!\nValfri pjäs går 5 steg längre",
+	"desc": "Du har hittat prästens bibel!\nValfri pjäs går 5 steg längre.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "jetmotor",
 	"title": "Jetmotor",
-	"desc": "Du kom till Doris Digital\noch fick en jetmotor!\nDen monteras på en egen pjäs\nsom går 10 steg frammåt",
+	"desc": "Du kom till Doris Digital\noch fick en jetmotor!\nDen monteras på en egen pjäs\nsom går 10 steg frammåt.",
 	"count": 1,
 	"when": "anytime"
 },{
 	"name": "tävling",
 	"title": "TÄVLING!",
-	"desc": "Du och en motspelare tävlar\nom vem som har snabbast bil.\nDen som slår högst på tärningen går\n8 steg med valfri pjäs",
+	"desc": "Du och en motspelare tävlar\nom vem som har snabbast bil.\nDen som slår högst på tärningen går\n8 steg med valfri pjäs.",
 	"count": 1,
 	"when": ""
 },{
